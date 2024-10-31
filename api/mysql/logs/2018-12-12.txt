@@ -1,0 +1,25 @@
+Time : 13:58:43
+SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+Raw SQL : Select * FROM playerdata ORDER BY PVPKills DESC
+
+Time : 13:58:42
+SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+Raw SQL : Select * FROM playerdata ORDER BY PVPKills DESC
+
+Time : 13:58:40
+SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+Raw SQL : Select * FROM playerdata ORDER BY PVPKills DESC
+
+Time : 13:58:36
+SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+Raw SQL : Select * FROM playerdata ORDER BY PVPKills DESC
+
+Time : 13:58:36
+SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected
+Raw SQL : Select * FROM playerdata ORDER BY PVPKills DESC
+
+Time : 11:39:13
+SQLSTATE[HY000] [1044] Access denied for user ''@'localhost' to database 'rust'
+
+Time : 11:36:29
+SQLSTATE[HY000] [1045] Access denied for user 'rustaur1_rust'@'localhost' (using password: YES)

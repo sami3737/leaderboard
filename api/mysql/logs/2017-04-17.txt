@@ -1,0 +1,5 @@
+Time : 12:32:08
+SQLSTATE[HY000] [1049] Unknown database 'rust'
+
+Time : 03:22:44
+SQLSTATE[HY000] [1130] Host 'ip188.ip-164-132-9.eu' is not allowed to connect to this MySQL server

@@ -1,0 +1,139 @@
+Time : 19:45:27
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC
+
+Time : 19:45:19
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC
+
+Time : 19:45:18
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC
+
+Time : 19:37:54
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC
+
+Time : 19:37:53
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC
+
+Time : 19:37:52
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC
+
+Time : 19:37:51
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC
+
+Time : 19:37:51
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC
+
+Time : 19:37:50
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC
+
+Time : 19:37:27
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC
+
+Time : 19:37:25
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC
+
+Time : 19:37:24
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC
+
+Time : 19:36:25
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC
+
+Time : 19:36:22
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC
+
+Time : 19:36:17
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC
+
+Time : 19:35:27
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC
+
+Time : 19:35:20
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC
+
+Time : 19:35:15
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC
+
+Time : 19:35:13
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC
+
+Time : 19:34:33
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC
+
+Time : 19:34:32
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC
+
+Time : 19:34:31
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC
+
+Time : 19:34:29
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC
+
+Time : 19:34:28
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC
+
+Time : 19:34:27
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC
+
+Time : 19:34:24
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC
+
+Time : 19:34:22
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC
+
+Time : 19:33:24
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC
+
+Time : 19:33:18
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC
+
+Time : 19:32:47
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC
+
+Time : 19:32:25
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC
+
+Time : 19:32:24
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC
+
+Time : 19:32:23
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC
+
+Time : 19:32:22
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC
+
+Time : 19:32:20
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'rustaur1_playerranks.playerranksdb' doesn't exist
+Raw SQL : Select * FROM playerranksdb ORDER BY PVPKills DESC

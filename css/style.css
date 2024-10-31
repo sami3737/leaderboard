@@ -1,0 +1,34 @@
+html{
+	background-image: url('../img/Background.jpg');
+	background-repeat: round;
+}
+.warning{
+	background-color: black;
+}
+.warning p{
+	text-align:center;
+	color: red;
+}
+th{
+	background-color: #c3dde0;
+}
+th:hover
+{
+    background-color: Red;
+}
+.serverinfo
+{
+	float:left;
+	width:	50%;
+	text-align: center;
+	height: 250px;
+}
+#chat{
+	width: 50%;
+    background-color: grey;
+    width: 30%;
+    margin: auto;
+	max-height:250px;
+	overflow-y:scroll;
+
+}

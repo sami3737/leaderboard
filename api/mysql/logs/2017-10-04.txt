@@ -1,0 +1,38 @@
+Time : 23:30:27
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 18:09:55
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 16:14:39
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 16:14:01
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 14:27:32
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 14:26:49
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 12:34:59
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 09:41:59
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 08:25:52
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 08:25:19
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 02:27:47
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 02:27:26
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 01:23:42
+SQLSTATE[HY000] [2002] Connection timed out

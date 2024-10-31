@@ -1,0 +1,39 @@
+Time : 22:24:43
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Price' cannot be null
+Raw SQL : INSERT INTO `payment`(`PaymentID`, `Status`, `AccountUniqueNumber`, `Type`, `Price`, `ItemName`,`Amount`) VALUES (uuid(), :Status,:SteamId,:Type,:Price,:ItemName,:Amount)
+
+Time : 22:24:39
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Price' cannot be null
+Raw SQL : INSERT INTO `payment`(`PaymentID`, `Status`, `AccountUniqueNumber`, `Type`, `Price`, `ItemName`,`Amount`) VALUES (uuid(), :Status,:SteamId,:Type,:Price,:ItemName,:Amount)
+
+Time : 22:23:14
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Price' cannot be null
+Raw SQL : INSERT INTO `payment`(`PaymentID`, `Status`, `AccountUniqueNumber`, `Type`, `Price`, `ItemName`,`Amount`) VALUES (uuid(), :Status,:SteamId,:Type,:Price,:ItemName,:Amount)
+
+Time : 22:18:52
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Price' cannot be null
+Raw SQL : INSERT INTO `payment`(`PaymentID`, `Status`, `AccountUniqueNumber`, `Type`, `Price`, `ItemName`,`Amount`) VALUES (uuid(), :Status,:SteamId,:Type,:Price,:ItemName,:Amount)
+
+Time : 22:14:37
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Price' cannot be null
+Raw SQL : INSERT INTO `payment`(`PaymentID`, `Status`, `AccountUniqueNumber`, `Type`, `Price`, `ItemName`,`Amount`) VALUES (uuid(), :Status,:SteamId,:Type,:Price,:ItemName,:Amount)
+
+Time : 20:22:11
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Price' cannot be null
+Raw SQL : INSERT INTO `payment`(`PaymentID`, `Status`, `AccountUniqueNumber`, `Type`, `Price`, `ItemName`,`Amount`) VALUES (uuid(), :Status,:SteamId,:Type,:Price,:ItemName,:Amount)
+
+Time : 20:17:38
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Price' cannot be null
+Raw SQL : INSERT INTO `payment`(`PaymentID`, `Status`, `AccountUniqueNumber`, `Type`, `Price`, `ItemName`,`Amount`) VALUES (uuid(), :Status,:SteamId,:Type,:Price,:ItemName,:Amount)
+
+Time : 20:13:03
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Price' cannot be null
+Raw SQL : INSERT INTO `payment`(`PaymentID`, `Status`, `AccountUniqueNumber`, `Type`, `Price`, `ItemName`,`Amount`) VALUES (uuid(), :Status,:SteamId,:Type,:Price,:ItemName,:Amount)
+
+Time : 20:12:57
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Price' cannot be null
+Raw SQL : INSERT INTO `payment`(`PaymentID`, `Status`, `AccountUniqueNumber`, `Type`, `Price`, `ItemName`,`Amount`) VALUES (uuid(), :Status,:SteamId,:Type,:Price,:ItemName,:Amount)
+
+Time : 20:12:51
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Price' cannot be null
+Raw SQL : INSERT INTO `payment`(`PaymentID`, `Status`, `AccountUniqueNumber`, `Type`, `Price`, `ItemName`,`Amount`) VALUES (uuid(), :Status,:SteamId,:Type,:Price,:ItemName,:Amount)
