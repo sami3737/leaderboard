@@ -17,8 +17,11 @@ Il permet d'afficher en live le chat et le rang des joueurs d'un serveur de jeu 
 ### Prérequis
 
   -[MySQL](https://www.mysql.com/)
+  
   -[PHP7](https://www.php.net/releases/index.php)
+  
   -[SourceQuery](https://github.com/xPaw/PHP-Source-Query) fourni
+  
   -[JQuery](https://jquery.com/)
 
 ### Installation
