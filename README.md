@@ -39,4 +39,4 @@ Il permet d'afficher en live le chat et le rang des joueurs d'un serveur de jeu 
 
 ## Licence
 
-Ce projet est sous licence ``MIT License`` - voir le fichier [LICENSE](LICENCE.md) pour plus d'informations
+Ce projet est sous licence ``MIT License`` - voir le fichier [LICENSE](LICENSE.md) pour plus d'informations
