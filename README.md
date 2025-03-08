@@ -2,8 +2,8 @@
 
 ## À propos
 
-Leaderboard est une vitrine créer en 2018.
-Il permet d'afficher en live le chat et le rang des joueurs d'un serveur de jeu [Rust](https://rust.facepunch.com/)
+Leaderboard est une vitrine créée en 2018.
+Il permet d'afficher en direct le chat et le classement des joueurs d'un serveur de jeu [Rust](https://rust.facepunch.com/).
 
 ## Table des matières
 
@@ -12,31 +12,32 @@ Il permet d'afficher en live le chat et le rang des joueurs d'un serveur de jeu 
 - [Installation](#installation)
 - [Outils](#outils)
 - [Auteurs](#auteurs)
-- [Licence](#Licence)
+- [Licence](#licence)
 
-### Prérequis
+## Prérequis
 
-  -[MySQL](https://www.mysql.com/)
-  
-  -[PHP7](https://www.php.net/releases/index.php)
-  
-  -[SourceQuery](https://github.com/xPaw/PHP-Source-Query) fourni
-  
-  -[JQuery](https://jquery.com/)
+Avant d’installer Leaderboard, assurez-vous d’avoir :
 
-### Installation
+- [MySQL](https://www.mysql.com/)
+- [PHP 7](https://www.php.net/releases/index.php)
+- [SourceQuery](https://github.com/xPaw/PHP-Source-Query) (fourni avec le projet)
+- [jQuery](https://jquery.com/)
 
--Installer et configurer votre serveur Apache ou faite votre propre installation MySQL/PHP.
+## Installation
 
--Configurer la variable SERVER_API_ADDRESS depuis le fichier [SourceQuery.php](./SourceQuery/SourceQuery.php)
+1. Installer et configurer votre serveur Apache ou réaliser votre propre installation MySQL/PHP.
+2. Configurer la variable `SERVER_API_ADDRESS` dans le fichier [SourceQuery.php](./SourceQuery/SourceQuery.php).
 
 ## Outils
 
-  *Notepad++
+- [Notepad++](https://notepad-plus-plus.org/)
+- Un éditeur de texte au choix (VS Code, Sublime Text, etc.)
 
 ## Auteurs
-* **Samuel Boutin** _alias_ [@sami3737](https://github.com/sami3737)
+
+- **Samuel Boutin** _alias_ [@sami3737](https://github.com/sami3737)
 
 ## Licence
 
-Ce projet est sous licence ``MIT License`` - voir le fichier [LICENSE](LICENSE.md) pour plus d'informations
+Ce projet est sous licence **MIT License** - voir le fichier [LICENSE](LICENSE.md) pour plus d'informations.
+
