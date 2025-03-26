@@ -13,6 +13,7 @@ Il permet d'afficher en direct le chat et le classement des joueurs d'un serveur
 - [Outils](#outils)
 - [Auteurs](#auteurs)
 - [Licence](#licence)
+- [Preview](#preview)
 
 ## Prérequis
 
@@ -40,4 +41,7 @@ Avant d’installer Leaderboard, assurez-vous d’avoir :
 ## Licence
 
 Ce projet est sous licence **MIT License** - voir le fichier [LICENSE](LICENSE.md) pour plus d'informations.
+
+## Preview
+[Leaderboard](http://sami3737.free.nf/leaderboard/)
 
